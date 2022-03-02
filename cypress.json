@@ -1,0 +1,5 @@
+{
+    "defaultTimeout":100000,
+    "failOnStatusCode": false,
+    "chromeWebSecurity": false
+}

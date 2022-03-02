@@ -1,0 +1,31 @@
+{
+  "firstPageData":"Hi! I'm Lily, your virtual insurance expert. And you are?",
+  "firstName":"Idrees",
+  "lastName":"kema",
+  "DateofBirth":"08112000",
+  "address":{
+    "address1":"2008 E 39th St Tacoma, WA 98404,USA",
+    "address2":"4498 West 3060th South, West Valley City, UT 84120, USA",
+    "address3":"13159Twinflower Court Moreno",
+    "address4":"1537 Ginkgo Avenue",
+    "address5":"5401 Mount View Road, Antioch",
+    "address6":"11355 Southwest 11th Street, Beaverton"
+      },
+     "expected": {
+        "expect1":"2008E 39th St",
+        "expect2":"4498West 3060th South",
+        "expect3":"13159Twinflower Court",
+        "expect4":"1537 Ginkgo",
+        "expect5":"5401Mount View Road",
+        "expect6":"11355Southwest 11th Street"
+      },
+    "apt":"909",
+  "email":"test@insuritas.com",
+  "phoneNo":"1234567890",
+  "creditCard":{
+    "ccName":"idrees",
+    "ccNumber":"5555555555554444",
+    "ccexpire":"12/32"
+  
+}
+}
